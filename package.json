@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "assert": "^1.4.1",
-    "await-semaphore": "^0.1.3",
+    "async-mutex": "^0.2.6",
     "ethjs-query": "^0.3.8"
   },
   "devDependencies": {
